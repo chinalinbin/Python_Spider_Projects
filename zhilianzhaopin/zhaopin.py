@@ -3,7 +3,7 @@
 import requests
 from bs4 import BeautifulSoup
 from multiprocessing import Pool
-from Spider_Practice.spider_exercise.getpages import pages
+from zhilianzhaopin.pages import pages
 
 
 def get_zhaopin(page):
