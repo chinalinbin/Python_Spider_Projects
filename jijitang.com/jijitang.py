@@ -25,6 +25,7 @@ csvf = open('jijitang_userdata.csv', 'a+', encoding='utf-8', newline='')
 writer = csv.writer(csvf)
 writer.writerow(('昵称','id','学历','学校','学院','专业','经验','简介'))
 
+
 # 初识URL参数
 last = 2065
 lastid = '5b96fb1bc2f15ecd73ddf606'
