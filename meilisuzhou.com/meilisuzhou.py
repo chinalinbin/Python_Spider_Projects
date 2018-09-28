@@ -38,7 +38,7 @@ def get_param(index):
 	'Referer': 'http://www.meilisuzhou.com/members.aspx',
 	'Accept-Encoding': 'gzip, deflate',
 	'Accept-Language': 'zh-CN,zh;q=0.9',
-	'Cookie': 'ASP.NET_SessionId=*************; arp_scroll_position=1792'}
+	'Cookie': 'ASP.NET_SessionId=****************; arp_scroll_position=1792'}
 
 	form = {
 	'act': 'detail',
